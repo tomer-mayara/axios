@@ -122,7 +122,7 @@
     "karma-sinon": "^1.0.5",
     "karma-sourcemap-loader": "^0.3.8",
     "memoizee": "^0.4.15",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.1",
     "mocha": "^10.3.0",
     "multer": "^1.4.4",
     "pretty-bytes": "^6.1.1",
